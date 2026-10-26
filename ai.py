@@ -1,4 +1,6 @@
-import os, json, re
+import os
+import json
+import re
 import google.generativeai as genai
 from PIL import Image
 
